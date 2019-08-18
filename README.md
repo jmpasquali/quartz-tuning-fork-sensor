@@ -5,7 +5,7 @@ This program for Arduino reads the oscillation frequency of a quartz tuning fork
 ### Working principle 
 A quartz resonator is a tuning fork with two electrodes, which has definite resonance frequencies. Due to its high stability, precision, and low power consumption, the quartz crystal tuning fork has become a widely used component for frequency measurements. This device can also be used as a sensor: the oscillators resonant frequency is affected by the environment. 
 
-### Material list 
+### Component list 
 - 220 kOhm resistor;
 - 10 MOhm resistor;
 - CI CMOS 4069;
