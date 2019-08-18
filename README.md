@@ -15,7 +15,7 @@ A quartz resonator is a tuning fork with two electrodes, which has definite reso
 
 ### How to wire the electronic circuit: 
 
-![](electronic_circuit/png)
+![](quartz-tuning-fork-sensor/electronic_circuit.png)
 
 ### How to wire the LCD display:
 
