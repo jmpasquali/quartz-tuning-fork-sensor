@@ -10,7 +10,7 @@ A quartz resonator is a tuning fork with two electrodes, which has definite reso
 - 10 MOhm resistor;
 - CI CMOS 4069;
 - Arduino Uno;
-- 32 kHz quartz oscilaltor, removed from its packaging;
+- 32 kHz quartz oscillator, removed from its packaging;
 - 30pF capacitors (2 units);
 - LCD display (optional);
 
