@@ -16,13 +16,13 @@ A quartz resonator is a tuning fork with two electrodes, which has definite reso
 
 ### How to wire the frequency meter circuit: 
 <p align="center">
-  <img src="electronic_circuit.png" width="600" alt="accessibility text">
+  <img src="electronic_circuit.png" width="600" alt="x">
 </p>
 
 ### How to wire the LCD display:
 
 <p align="center">
-  <img src="lcd_wiring.png" width="800" alt="accessibility text">
+  <img src="lcd_wiring.png" width="800" alt="x">
 </p>
 
 ### How to evaluate the frequency shift: 
