@@ -14,7 +14,7 @@ A quartz resonator is a tuning fork with two electrodes, which has definite reso
 - 30pF capacitors (2 units);
 - LCD display (optional);
 
-### How to wire the electronic circuit: 
+### How to wire the frequency meter circuit: 
 <p align="center">
   <img src="electronic_circuit.png" width="600" alt="accessibility text">
 </p>
