@@ -7,7 +7,7 @@ int Ltime;                // integer for low signal
 float Ttime;              // integer for storing total time of a cycle
 float frequency;          // frequency
 
-//Moving Average
+// Moving Average
 double readings[15];      // the readings from the input
 int index = 0;            // the index of the current reading
 double total = 0;         // total 
@@ -62,7 +62,9 @@ void loop() {
   lcd.print(" ");
   lcd.print(int_avg);
   lcd.print(" Hz ");
-  Serial.println(int_avg);
+ 
+  // You can print the frequency to the serial monitor instead
+  // Serial.println(int_avg);
 
   delay(150);
    
