@@ -25,9 +25,6 @@ A quartz resonator is a tuning fork with two electrodes, which has definite reso
   <img src="lcd_wiring.png" width="800" alt="x">
 </p>
 
-### How to evaluate the frequency shift: 
-
-
 
  ### Based on the following articles: 
  1. [Introduction to the quartz tuning fork](https://www.researchgate.net/publication/228893284_Introduction_to_the_quartz_tuning_fork)
